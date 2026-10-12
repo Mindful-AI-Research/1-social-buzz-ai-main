@@ -1,7 +1,8 @@
 
 # Framework Web Application:
-Django==6.0.2
 streamlit==1.59.1
+Django==6.0.8
+
 
 
 
@@ -15,33 +16,33 @@ seaborn==0.13.2
 
 # Data Analysis Libraries:
 scipy==1.17.0
-scikit-learn==1.8.0
+scikit-learn==1.9.0
 
 
 # Machine Learning Libraries:
 
 
-keras==3.13.2
+keras==3.15.0
 tensorflow==2.20.0
-keras==3.13.2
+keras==3.15.0
 
 
 
 # Natural Language Processing Libraries:
-nltk==3.10.0
+nltk==3.10.3
 spacy==3.8.11
 
 # Web Scraping Libraries:
-beautifulsoup4==4.14.3
+beautifulsoup4==4.15.0
 requests==2.33.0
 
 # Database Libraries:
 sqlalchemy==2.0.46
-psycopg2-binary==2.9.11
+psycopg2-binary==2.9.12
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.5.6
+notebook==7.6.3
 ipywidgets==8.1.8
 
 # Other Useful Libraries:
